@@ -4,7 +4,7 @@
 ---
 
 ## 📖 Overview
-Built with **Rust**, this CLI tool focuses on performance and data safety. It manages local persistent storage with strict ownership rules, demonstrating my proficiency in memory-safe languages and low-level file manipulation.
+Built with **Rust**, this CLI tool focuses on performance and data safety. It manages local persistent storage with strict ownership rules.
 
 ## ✨ Key Features
 - 🚀 **Zero-Cost Abstractions**: High-speed data processing using Rust.
